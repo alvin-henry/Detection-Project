@@ -2,6 +2,8 @@
 This a hand gesture detection project I worked on a lot of work went into this 
 With this project I created the two scripts using PyCharm (I do recommend using this program if possible). The file called "dataCollection.py" is for collecting data aslo 
 known as the images for your project, I recommending about 200-300 images pressing "S" will save the images.
+
+
 ![image_1660243257 442007](https://user-images.githubusercontent.com/93213883/215239650-90af127d-37de-4e9e-880c-fec0cf593b9f.jpg)
 ![image_1660243433 8644469](https://user-images.githubusercontent.com/93213883/215239657-6f8a0a6f-73bc-4154-ae9a-f6eab5f3be28.jpg)
 ![image_1660243800 649204](https://user-images.githubusercontent.com/93213883/215239666-3c3ad9ff-0831-40f5-9c0c-150964407e29.jpg)
